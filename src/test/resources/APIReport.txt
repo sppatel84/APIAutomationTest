@@ -1,0 +1,4 @@
+
+API Bug Report:-
+
+1. When we get the politician information passing with the id then I can see in Json response, yob field always give 0 value which is wrong
